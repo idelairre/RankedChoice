@@ -1,0 +1,203 @@
+is-she-electable:
+  question: ...is she even electable?
+  answer: |
+      We’ve never seen an election year like this. Jill is running against two
+      major-party candidates that have the lowest favorability ratings in
+      decades. Many Bernie Sanders supporters who are disillusioned after the DNC
+      have flocked to Jill’s campaign to continue the political revolution.
+      Campaign donations have exploded nearly 1000% since Sanders's endorsement
+      of Clinton.
+
+      When she polls at 15% in 5 national polls, Jill will be included in
+      Presidential debates, at which point the  mainstream media will be
+      compelled to increase coverage of her campaign. Americans will learn they
+      have another choice that doesn’t involve voting for the lesser of two evils.
+      Jill’s plan to cancel student debt for 43 million people alone would be a
+      winning plurality, so getting the word out is key.
+
+      Even if Jill doesn’t win, a vote for her [isn’t wasted]($wasted).
+  links:
+    wasted: "#third-party-wasted-vote"
+
+wont-she-be-a-spoiler:
+  question: ...won't she be a spoiler like Ralph Nader?
+  answer: |
+    First of all, it's a myth that Nader spoiled the 2000 election. You can
+    [read more]($medium) about that if you like, but for now let's talk about 2016.
+
+    This year, governor Gary Johnson in the Libertarian Party is a right-wing
+    third party candidate who is already siphoning a lot of conservative support
+    from Donald Trump. In 2016, the spoiler argument is *even further* from the
+    truth than it's ever been.
+
+    Bernie Sanders inspired a movement of people who might not have ordinarily
+    participated in the democratic process, many of them young people. Talk of a
+    spoiler assumes the Democratic Party is automatically entitled to, or owns,
+    their votes. It's the kind of arrogance that plagues the leadership of a
+    morally decaying political party — but in 2016, they can't even pretend to
+    have the numbers on their side. **You have nothing to fear from voting your
+    conscience. A vote for Jill Stein is just that, a vote for Jill Stein.**
+  links:
+    medium: "https://medium.com/@arielstern/did-nader-spoil-the-2000-election-24d9d991f71f#.ryep78jya"
+
+third-party-wasted-vote:
+  question: ...isn't a third party vote a wasted vote?
+  answer: |
+    Party identification in 2016 is near [historic lows]($gallup) with Republicans at 26%
+    and Democrats at 29%. With 42% of voters identifying as independents, this
+    race is up for grabs. Voters are clamoring for more choices and this election
+    may well signal the rise of third parties into political prominence.
+
+    The presidency is won by electoral votes awarded by winning individual
+    states. **If you live in a state that’s polling solid red or blue, then an
+    additional vote for a Democrat or a Republican won’t change the outcome —
+    expressing your support for a third party is actually *more* meaningful than a
+    major party vote in these states!**
+
+    ***Your vote isn’t wasted even if Jill doesn’t win.*** If the Green Party
+    gets 5% of the popular vote, it qualifies for federal funding in the 2020
+    election. Plus, the more votes Jill gets, the more publicity the party will
+    get. If Jill loses but gets a good turnout, the media will run with the
+    narrative that voters are rejecting the two-party system. We can use that to
+    build a movement to win down-ticket races in the years to come.
+  links:
+    gallup: "http://www.gallup.com/poll/188096/democratic-republican-identification-near-historical-lows.aspx"
+
+isnt-she-anti-science:
+  question: ...isn't she anti-science/anti-vaccine?
+  answer: |
+    Dr. Jill Stein is a [Harvard Medical School graduate]($heavy) who practiced medicine
+    for 25 years. She supports vaccinations and considers them critical medication
+    to rid us of many diseases. However, she has [spoken out]($pressrelease)
+    about the corrupting influence of pharmaceutical industry lobbying, the FDA
+    being controlled by drug companies, and the consequent erosion of public trust.
+
+    Jill is absolutely pro-science, especially when it comes to climate change —
+    she understands that the science says we need to do something now. She opposes
+    fracking, offshore drilling, and other destructive energy extraction methods
+    that are harmful to our climate and environment.
+
+    Hillary Clinton, meanwhile, will gladly [pander to pro-science voters]($slate),
+    but then turns around and [supports fracking]($grist). Anyone who understands
+    the science knows there is [no such thing as "safe fracking"]($pnj). Climate
+    change is [an emergency]($guardian), and nobody who truly believes in it
+    should be dragging their feet on ditching fossil fuels.
+  links:
+    pressrelease: "http://www.jill2016.com/baseless_anti_vax_attacks_against_dr_jill_stein_distract_from_concerns"
+    slate: "http://www.slate.com/articles/health_and_science/science/2016/07/hillary_clinton_believes_in_science_that_shouldn_t_be_noteworthy.html"
+    heavy: "http://heavy.com/news/2016/05/dr-jill-stein-5-fast-facts-you-need-to-know/"
+    grist: "http://grist.org/climate-energy/where-does-hillary-clinton-stand-on-fracking/"
+    pnj: "http://www.pnj.com/story/opinion/2015/04/11/viewpoint-anyone-understands-fracking-opposes/25632039/"
+    guardian: "https://www.theguardian.com/environment/2016/jun/17/shattered-records-climate-change-emergency-today-scientists-warn"
+
+# how-can-she-get-anything-done:
+#     question: ...how can she get anything done with Democrats and Republicans?
+#     answer: |
+#       Jill aims to use the governance strategy that Barack Obama seemed to
+#       promise in 2008 and didn’t deliver on: using the power of the people. She’s
+#       [taken Obama to task]($intercept) for putting “his ground troops on the
+#       shelf” — meaning the grassroots support he built — after getting elected.
+#       Democracy doesn’t end when you cast a vote for President, and Jill wants
+#       to be a commander-in-chief of citizens and activists, using protest and
+#       grassroots organizing to put pressure on Congress to enact the policies we
+#       voted for.
+#
+#       We’ve never had a President operate that way before, but in
+#       the 21st century of hyperconnected citizens and disconnected elected
+#       officials, it’s about time that we did.
+#     links:
+#       intercept: "https://theintercept.com/2016/07/29/the-two-party-system-is-the-worst-case-scenario-an-interview-with-the-green-partys-jill-stein/"
+
+how-will-she-pay-for-this:
+    question: ...how will she pay for all this?
+    answer: |
+      Jill is calling for a Green New Deal, like the New Deal that got us out of
+      the Great Depression in the 1930’s. This would take the form of an emergency
+      jobs program that would create 25 million new green jobs, jobs focused on
+      transitioning to 100% clean renewable energy by 2030. This would not only
+      jumpstart our economy but also make wars for oil obsolete.
+
+      By establishing a foreign policy based on diplomacy, international law, and
+      human rights it would allow us to significantly reduce our military budget.
+      Jill proposes cutting military spending by 50 percent and closing military
+      bases overseas thereby reducing our involvement in international conflicts.
+
+      Jill’s plan to cancel student loan debt for 43 million people would take a
+      similar form to the financial industry bailout of 2008. Just as we bailed
+      out the crooks on Wall Street who crashed the economy, Jill would use
+      [quantitative easing]($counterpunch) to bail out the victims. This
+      [wouldn’t cost taxpayers]($foxbusiness) but instead return $7 for every
+      dollar spent in the form of increased economic participation by a segment
+      of our population that has been crippled and held hostage by student loan debt.
+    links:
+      counterpunch: "http://www.counterpunch.org/2016/08/03/can-jill-carry-bernies-baton-a-look-at-the-green-candidates-radical-funding-solution/"
+      foxbusiness: "http://www.foxbusiness.com/politics/2016/07/07/green-partys-jill-stein-on-tax-free-student-loan-bailout.html"
+
+# shes-never-held-office:
+#     question: ...how can she be President if she's never held office?
+#     answer: |
+#       TBD
+#
+# minority-support:
+#     question: ...aren't all her suppoters young white men?
+#     answer: |
+#       TBD
+
+why-support-green-party:
+    question: ...why support the Green Party instead of reforming the Democrats?
+    answer: |
+      The fact is that both parties are beholden to the same corporate interests
+      representing the fossil fuel industry, Wall Street, pharmaceutical, and war
+      profiteers. While there have been ongoing efforts to reform the Democratic
+      Party for many years, the recent attempts by progressives like Bernie Sanders
+      to reform from within have met with resistance at every turn. As confirmed
+      by Wikileaks, there has been corruption and collusion at highest levels of
+      the DNC, to the detriment of the party and our democracy.
+
+      The Green Party is in a unique position to represent the 99% by being the
+      only party that does not accept corporate donations or donations from PACs.
+      It's part of a grassroots global movement that values people, planet, and
+      peace over profit. It's the largest progressive opposition party in the
+      United States today, and with the infrastructure the Greens have already
+      built for ballot access, it's the best chance we have to take down the
+      two-party system from the left.
+
+fear-voting:
+    question: ...I'm still afraid of Trump. How do we make sure he doesn't win?
+    answer: |
+      **If Jill gets into the debates, *all bets are off.*** The race changes entirely,
+      and anyone could win the election.
+
+      If that doesn’t happen, we still want Jill to have all the votes she can get.
+      As much as we don’t want Trump to win, we can’t let ourselves be extorted into
+      voting for the “lesser evil” candidate.
+
+      History has shown that this type of race to the bottom voting has delivered
+      us more of the things we don’t want rather than the type of world we’d like
+      to have. The truth is both [Trump and Clinton are terrible choices]($video)
+      and neither deserves our vote.
+
+      Regardless of what state you live in, a vote for Jill is a conscientious vote
+      that will also strengthen the Green Party and help support down ticket
+      candidates. We each have the power to make a difference; reject the politics of
+      fear and together we can fight for the greater good one vote at a time.
+
+    links:
+        video: "https://www.youtube.com/watch?v=RtX89d_EIpA"
+
+learn-more:
+    isEndTag: true,
+    question: >
+      Hmm, these are some good points, but I'm still unconvinced.
+      Where can I learn more?
+    answer: |
+      You can read more about Jill Stein's [plan]($plan) and [platform]($platform)
+      to get a feel for her positions on the issues.
+
+      This [CNN Town Hall]($townhall) with Jill and her running mate Ajamu Baraka
+      can give you a deep, in-depth look at why she's an excellent candidate and
+      why you should vote for her.
+    links:
+      plan: "http://www.jill2016.com/plan"
+      platform: "http://www.jill2016.com/platform"
+      townhall: "https://www.youtube.com/watch?v=h9G0_ByoWe0"
