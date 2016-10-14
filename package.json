@@ -3,6 +3,7 @@
   "version": "1.0.0",
   "description": "Agit prop for ranked choice voting",
   "scripts": {
+    "build": "webpack src/index.js",
     "start": "node server.js",
     "lint": "eslint src"
   },
